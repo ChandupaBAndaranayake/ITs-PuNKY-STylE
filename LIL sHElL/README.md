@@ -1,5 +1,5 @@
 **Simple Shell in C for Windows**
-    This is a simple shell implementation written in C for Windows      operating systems. It allows basic command execution and provides a minimalistic command-line interface.
+    - This is a simple shell implementation written in C for Windows      operating systems. It allows basic command execution and provides a minimalistic command-line interface.
 
 **Features**
     - Executes commands entered by the user.
